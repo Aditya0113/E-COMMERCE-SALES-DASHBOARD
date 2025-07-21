@@ -15,5 +15,3 @@ Payment Mode Trends: Analyzes preferred payment methods by customers (e.g., COD,
 Profit by Sub-Category: Identifies which sub-categories drive the most and least profit.
 
 Dynamic Filters: Filter data by quarters and custom time ranges for focused analysis.
-
-📈 Use Case:
