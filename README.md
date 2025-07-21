@@ -1,5 +1,4 @@
-# E-COMMERCE-SALES-DASHBOARD
-📊 E-Commerce Sales Analysis Dashboard
+# 📊 E-COMMERCE-SALES-DASHBOARD
 This repository contains an interactive and visually engaging E-Commerce Sales Dashboard built using Power BI. The dashboard provides deep insights into sales, profits, quantities, and customer purchasing behavior across various states, categories, and payment modes.
 
 🔍 Key Features:
